@@ -1,0 +1,16 @@
+{
+  "name": "@cntxt/remote-hook-form",
+  "version": "0.0.1",
+  "description": "Think: react-hook-form but built with remote-ui as the output target.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ben Anderson<banderson87@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3"
+  }
+}
